@@ -1,0 +1,6 @@
+name=input("enter the name:")
+age=int(input("enter the age:"))
+print("my name is "+name+ " and i am "+str(age)+" year old")
+print("my name is",name,"and i am",age,"year old")
+print("my name is %s and i am %d year old"%(name,age))
+print("my name is {} and i am {} year old".format(name,age))
