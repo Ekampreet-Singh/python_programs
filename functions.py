@@ -11,6 +11,7 @@ ashu()
 def ekam(name,age):
     print("my name is",name)
     print("i am {} years old ".format(age))
+    print()
 value1=input("Enter a name ")
 value2=input("Enter your age ")
 ekam(value1,value2)    

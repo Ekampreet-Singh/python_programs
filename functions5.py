@@ -5,4 +5,7 @@ def ashu(name,age=17):
 
 ashu("ekampreet",)    
 ashu("ekampreet",12)
-ashu(22,"ekam")
+
+
+
+

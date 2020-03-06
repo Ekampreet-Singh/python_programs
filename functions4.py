@@ -1,6 +1,6 @@
 # find the sum of all items of any list ,tuple,etc
 
-def plus(n1):
+def plus(n1):1
     sum=0
     for item in n1:
         sum=sum+item
